@@ -79,5 +79,7 @@ enum Weekday {
 On peut utiliser `typedef` pour définir un alias pour l'énumération.
 
 ```c
-typedef enum Weekday Weekday;
+typedef enum {
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+} Weekday;
 ```
