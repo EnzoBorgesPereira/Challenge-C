@@ -1,7 +1,5 @@
 # Le C - Tableaux
 
-[Slide cours](https://docs.google.com/presentation/d/1srdKdo1U5c-UKxXWE4oAbz_lyGLwd6FGDg4oxRyq72E/edit#slide=id.g35f391192_00)
-
 Un tableau est un ensemble d'éléments de même type, indexé par un entier.
 
 Déclaration d'un tableau :
