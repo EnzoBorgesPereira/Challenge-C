@@ -1,7 +1,5 @@
 # Le C - Types complexes et listes
 
-[Slide cours](https://docs.google.com/presentation/d/1frI7wmmifVi27A1EK5kEKkzD6oKGGDyefnyFORDpndQ/edit)
-
 ## Listes chaînées
 
 Une liste chaînée est une structure de données pour agrandir dynamiquement la mémoire au fur et à mesure que les éléments sont ajoutés. Chaque élément de la liste est un nœud qui contient un élément de données et un pointeur vers le nœud suivant.
