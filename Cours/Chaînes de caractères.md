@@ -1,7 +1,5 @@
 # Le C - Chaînes de caractères
 
-[Slide cours](https://docs.google.com/presentation/d/1ku10VdieuZzCWxjG9spkny_WXUv8jLf4AQcx4gv583M/edit#slide=id.g35f391192_00)
-
 Une chaîne de caractères est un tableau de caractères, on peut le stocker dans un tableau de caractères.
 
 Une chaîne de caractères statique est mise dans un pointeur, elle est non modifiable, contraitement au format tableau :
