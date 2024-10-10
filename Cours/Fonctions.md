@@ -1,7 +1,5 @@
 # Le C - Fonctions
 
-[Slide cours](https://docs.google.com/presentation/d/1OE1pz6eWuML-0p7TLYJm-zJRZ7cGaZn_cfZ_Z4KFfNs/pub?start=false&loop=false&delayms=3000&slide=id.g35f391192_00)
-
 Une fonction est un bloc de code qui a un nom et qui peut être appelé depuis un autre endroit du programme.
 
 ## Déclaration d'une fonction
