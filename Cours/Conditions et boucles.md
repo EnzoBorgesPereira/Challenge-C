@@ -1,7 +1,5 @@
 # Le C - Conditions et boucles
 
-[Slide cours](https://docs.google.com/presentation/d/1FfaiHFSovV4m59EuGLgxTEri0QRzNjQZj1DtrG7U1nc/pub?start=false&loop=false&delayms=3000&slide=id.g35f391192_00)
-
 ## Opérateurs
 
 ### Relationnels
