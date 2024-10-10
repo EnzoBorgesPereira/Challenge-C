@@ -1,7 +1,5 @@
 # Le C - Les pointeurs et allocation dynamique
 
-[Slide cours](https://docs.google.com/presentation/d/1PTVzToSOxZ4fQupccLMAkcX2Ol_SAz2Ju414QyPlVL8/edit#slide=id.g35f391192_00)
-
 Un pointeur est une référence à une adresse mémoire. Il permet de manipuler directement la mémoire.
 Il est comme l'index d'un tableau mais dans la RAM.
 
