@@ -1,7 +1,5 @@
 # Le C - Variables et expressions
 
-[Slide cours](https://docs.google.com/presentation/d/1myYlGB4MRdrSPzcpdQQHLavW2a3ukWig8OObv9O7GJg/pub?start=false&loop=false&delayms=3000&slide=id.g13cdebc0e91_1_28)
-
 Créer en 1972 -> Dennis Ritchie et un des créateurs de UNIX
 
 Langage compiler -> gcc / clang
